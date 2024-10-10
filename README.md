@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yeong3223
-- 👀 I’m interested in ... Artificial Intelligence (keras, stable diffusion, LLM), Home Automation (HA project)
-- 🌱 I’m currently learning ... Robotics Intelligence Development
-- 📫 How to reach me ... gwanghwi.s210077@ggh.goe.go.kr
+- 👀 I’m interested in ... Big Data, Machine Learning(especially reinforcement learning), Home Automation (Home Assistant)
+- 🌱 I’m currently learning ... Data Science, Machine Learning from INHA University, Korea.
+- 📫 How to reach me ... yeong3223@gmail.com
